@@ -33,8 +33,7 @@ Aspiring **Machine Learning / Data Science Intern** with practical experience in
 
 ## 🧠 Core Skills Snapshot
 
-```text
-Machine Learning | NLP | Data Analysis | Python | SQL | Scikit-learn
-Feature Engineering | Model Evaluation | Resume Parsing
-Sentiment Analysis | LLMs | Google Gemini API
+**Machine Learning | NLP | Data Analysis | Python | SQL | Scikit-learn**  
+Feature Engineering | Model Evaluation | Resume Parsing  
+Sentiment Analysis | LLMs | Google Gemini API  
 Git | GitHub | REST APIs
