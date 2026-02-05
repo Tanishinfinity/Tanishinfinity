@@ -38,7 +38,7 @@ Feature Engineering | Model Evaluation | Resume Parsing
 Sentiment Analysis | LLMs | Google Gemini API  
 Git | GitHub | REST APIs
 
-🛠️ Technical Skills
+##🛠️ Technical Skills
 
 Languages: Python, SQL
 Machine Learning: Scikit-learn, Classification Models, NLP
@@ -48,9 +48,8 @@ Visualization: Matplotlib, Excel, Power BI (basic)
 Tools: Git, GitHub, Jupyter Notebook, VS Code
 APIs & LLMs: Google Gemini API
 
-🚀 Projects
-🔥 ResuMate AI (2025)
-
+##🚀 Projects
+##🔥 ResuMate AI (2025)
 AI-Powered Resume Analysis & Enhancement Platform
 
 Tech Stack:
