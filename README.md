@@ -25,7 +25,7 @@ I focus on:
 
 ---
 
-## 🎯 Career Objective (ATS-Friendly)
+## 🎯 Career Objective 
 
 Aspiring **Machine Learning / Data Science Intern** with practical experience in **Python, NLP, Scikit-learn, SQL, LLMs, and data analysis**, seeking opportunities to apply AI techniques to real-world problems in a collaborative engineering environment.
 
