@@ -37,3 +37,30 @@ Aspiring **Machine Learning / Data Science Intern** with practical experience in
 Feature Engineering | Model Evaluation | Resume Parsing  
 Sentiment Analysis | LLMs | Google Gemini API  
 Git | GitHub | REST APIs
+
+🛠️ Technical Skills
+
+Languages: Python, SQL
+Machine Learning: Scikit-learn, Classification Models, NLP
+Data Analysis: Pandas, NumPy
+Databases: MySQL, Oracle SQL
+Visualization: Matplotlib, Excel, Power BI (basic)
+Tools: Git, GitHub, Jupyter Notebook, VS Code
+APIs & LLMs: Google Gemini API
+
+🚀 Projects
+🔥 ResuMate AI (2025)
+
+AI-Powered Resume Analysis & Enhancement Platform
+
+Tech Stack:
+Python · NLP · LLMs · Google Gemini API · Next.js · TypeScript · Tailwind CSS
+
+Impact:
+
+📈 Improved ATS compatibility by 30–45%
+⚙️ Automated resume parsing, scoring, enhancement & cover letter generation
+🧠 Role- and JD-based resume optimization using LLMs
+🌐 Delivered a scalable full-stack AI application
+
+ML Workflow:
