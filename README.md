@@ -38,28 +38,112 @@ Feature Engineering | Model Evaluation | Resume Parsing
 Sentiment Analysis | LLMs | Google Gemini API  
 Git | GitHub | REST APIs
 
-##🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-Languages: Python, SQL
-Machine Learning: Scikit-learn, Classification Models, NLP
-Data Analysis: Pandas, NumPy
-Databases: MySQL, Oracle SQL
-Visualization: Matplotlib, Excel, Power BI (basic)
-Tools: Git, GitHub, Jupyter Notebook, VS Code
-APIs & LLMs: Google Gemini API
+**Languages:**  
+Python, SQL  
 
-##🚀 Projects
-##🔥 ResuMate AI (2025)
-AI-Powered Resume Analysis & Enhancement Platform
+**Machine Learning & NLP:**  
+Scikit-learn, Classification Models, NLP, Feature Engineering, Model Evaluation  
 
-Tech Stack:
-Python · NLP · LLMs · Google Gemini API · Next.js · TypeScript · Tailwind CSS
+**Data Analysis & Visualization:**  
+Pandas, NumPy, Matplotlib, Excel, Power BI (basic)  
 
-Impact:
+**Databases:**  
+MySQL, Oracle SQL  
 
-📈 Improved ATS compatibility by 30–45%
-⚙️ Automated resume parsing, scoring, enhancement & cover letter generation
-🧠 Role- and JD-based resume optimization using LLMs
-🌐 Delivered a scalable full-stack AI application
+**Tools & Platforms:**  
+Git, GitHub, Jupyter Notebook, VS Code  
 
-ML Workflow:
+**APIs & LLMs:**  
+Google Gemini API  
+
+---
+
+## 🚀 Projects
+
+### 🔥 ResuMate AI (2025)
+**AI-Powered Resume Analysis & Enhancement Platform**
+
+**Tech Stack:**  
+Python · NLP · LLMs · Google Gemini API · Next.js · TypeScript · Tailwind CSS  
+
+**Impact:**
+- 📈 Improved **ATS compatibility by 30–45%**
+- ⚙️ Automated resume parsing, scoring, enhancement & cover letter generation
+- 🧠 Role- and JD-based resume optimization using LLMs
+- 🌐 Delivered a scalable full-stack AI application
+
+**ML Workflow:**  
+Resume Text → NLP Processing → LLM Analysis → ATS Score + Optimized Resume  
+
+---
+
+### 📊 Sentiment Analysis of X (Twitter) (2025)
+**Machine Learning–Based Sentiment Classification System**
+
+**Tech Stack:**  
+Python · NLP · Scikit-learn · APIs · MySQL  
+
+**Highlights:**
+- Classified tweets into **Positive / Negative / Neutral**
+- Applied NLP preprocessing (tokenization, lemmatization, stop-word removal)
+- Stored and queried tweet data using SQL
+- Trained and evaluated supervised ML models
+
+**Typical Metrics:**
+- Accuracy: ~78–82%
+- Precision / Recall: Balanced
+- Model Type: Supervised Classification  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishinfinity&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishinfinity&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanishinfinity&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Experience & Achievements
+
+- **Smart India Hackathon (Internal Round)** – Qualified (2025)  
+  Focused on digital governance & public-sector efficiency  
+
+- **Inter-College Ideathon** – 🥉 3rd Prize (2024)  
+
+- **Oracle SQL Certification** – Completed (2025)  
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech) – Computer Science Engineering**  
+Chandigarh Engineering College, Mohali  
+📅 2023 – 2027 | **CGPA:** 8.10  
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:tanish20046@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com/in/tanish-sharma-1123ba319">
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
+  </a>
+  <a href="https://github.com/Tanishinfinity">
+    <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Actively seeking Machine Learning / Data Science internships and entry-level opportunities</i>
+</p>
